@@ -1,2 +1,0 @@
-This is a first line in file1.txt
-second line added in file1.txt
