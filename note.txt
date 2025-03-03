@@ -5,3 +5,4 @@ This is a fourth line
 this is a another line in note.txt
 This is a one more line in same file
 this is a simple text file
+modify file note.txt but want discard so restore using checkout
