@@ -2,3 +2,4 @@ This is file1.txt
 This is the second line.
 added data in fil1.txt from branch1
 perform rebase in file1.txt from branch1
+perform interactive rebase in file1.txt fro branch1
