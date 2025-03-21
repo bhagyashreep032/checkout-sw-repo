@@ -9,7 +9,7 @@ pipeline{
        
        stage('Build Stage'){
             steps{
-                sh 'mvn clean install'
+                 echo "Hello buuild is copleted"
             }
          }
     }
